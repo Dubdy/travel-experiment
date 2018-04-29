@@ -1,2 +1,2 @@
-# BoostCore
-Core functionality for Boost, mobile Enterprise AppStore
+# Traveller
+Using API Core for users and teams

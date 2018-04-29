@@ -1,0 +1,19 @@
+
+# Created by https://www.gitignore.io/api/vapor
+
+### Vapor ###
+Config/secrets
+
+### Vapor Patch ###
+Packages
+.build
+xcuserdata
+DerivedData/
+.DS_Store
+*_Info.plist
+
+# End of https://www.gitignore.io/api/vapor
+/BoostCore.xcodeproj/GeneratedModuleMap
+/BoostCore.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/BoostCore.xcodeproj/xcshareddata/xcschemes/xcschememanagement.plist
+*.xcodeproj
